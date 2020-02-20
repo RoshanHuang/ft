@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.vtest.it.ft.dao.GobangDao">
+<insert id="addGobangHistory" parameterType="com.vtest.it.ft.domain.GobangBean">
+  insert into gobang.gobangHistory(name,location) value(#{name},#{location})
+</insert>
+  <insert id="addGobangResult" parameterType="com.vtest.it.ft.domain.ResultBean">
+insert into gobang.gobangResult(name,result) value(#{name},#{result})
+  </insert>
+</mapper>

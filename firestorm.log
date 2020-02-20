@@ -1,0 +1,190 @@
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10003, pstmt-20029} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10003, pstmt-20029} Parameters : [computer, 17,5]
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10003, pstmt-20029} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10003, pstmt-20029} executed. 17.640102 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10003, pstmt-20029} closed
+DEBUG http-nio-20600-exec-9 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-8 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10003, pstmt-20030} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10003, pstmt-20030} Parameters : [player3, 13,4]
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10003, pstmt-20030} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10003, pstmt-20030} executed. 29.437147 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10003, pstmt-20030} closed
+DEBUG http-nio-20600-exec-8 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-4 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20031} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20031} Parameters : [computer, 16,4]
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20031} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20031} executed. 43.340787 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20031} closed
+DEBUG http-nio-20600-exec-4 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-7 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20032} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20032} Parameters : [player3, 15,6]
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20032} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20032} executed. 21.917576 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20032} closed
+DEBUG http-nio-20600-exec-7 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-1 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10003, pstmt-20033} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10003, pstmt-20033} Parameters : [computer, 18,6]
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10003, pstmt-20033} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10003, pstmt-20033} executed. 27.194588 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10003, pstmt-20033} closed
+DEBUG http-nio-20600-exec-1 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-3 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10003, pstmt-20034} created. insert into gobang.gobangResult(name,result) value(?,?)
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10003, pstmt-20034} Parameters : [computer, Computer Win]
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10003, pstmt-20034} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10003, pstmt-20034} executed. 22.983105 millis. insert into gobang.gobangResult(name,result) value(?,?)
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10003, pstmt-20034} closed
+DEBUG http-nio-20600-exec-3 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-10 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10003, pstmt-20035} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10003, pstmt-20035} Parameters : [player4, 13,1]
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10003, pstmt-20035} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10003, pstmt-20035} executed. 20.404332 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10003, pstmt-20035} closed
+DEBUG http-nio-20600-exec-10 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-9 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10003, pstmt-20036} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10003, pstmt-20036} Parameters : [computer, 12,1]
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10003, pstmt-20036} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10003, pstmt-20036} executed. 33.047884 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10003, pstmt-20036} closed
+DEBUG http-nio-20600-exec-9 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-8 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10003, pstmt-20037} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10003, pstmt-20037} Parameters : [player4, 13,2]
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10003, pstmt-20037} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10003, pstmt-20037} executed. 21.761701 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10003, pstmt-20037} closed
+DEBUG http-nio-20600-exec-8 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-4 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20038} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20038} Parameters : [computer, 13,3]
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20038} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20038} executed. 18.661257 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20038} closed
+DEBUG http-nio-20600-exec-4 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-7 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20039} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20039} Parameters : [player4, 12,3]
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20039} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20039} executed. 28.348863 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20039} closed
+DEBUG http-nio-20600-exec-7 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-1 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10003, pstmt-20040} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10003, pstmt-20040} Parameters : [computer, 11,4]
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10003, pstmt-20040} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10003, pstmt-20040} executed. 41.428184 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10003, pstmt-20040} closed
+DEBUG http-nio-20600-exec-1 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-2 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-2 druid.sql.Statement - {conn-10003, pstmt-20041} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-2 druid.sql.Statement - {conn-10003, pstmt-20041} Parameters : [player4, 13,4]
+DEBUG http-nio-20600-exec-2 druid.sql.Statement - {conn-10003, pstmt-20041} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-2 druid.sql.Statement - {conn-10003, pstmt-20041} executed. 73.718877 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-2 druid.sql.Statement - {conn-10003, pstmt-20041} closed
+DEBUG http-nio-20600-exec-2 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-3 druid.sql.Connection - {conn-10004} pool-connect
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10004, pstmt-20042} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10004, pstmt-20042} Parameters : [computer, 11,2]
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10004, pstmt-20042} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10004, pstmt-20042} executed. 20.719496 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10004, pstmt-20042} closed
+DEBUG http-nio-20600-exec-3 druid.sql.Connection - {conn-10004} pool-recycle
+DEBUG http-nio-20600-exec-6 druid.sql.Connection - {conn-10004} pool-connect
+DEBUG http-nio-20600-exec-6 druid.sql.Statement - {conn-10004, pstmt-20043} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-6 druid.sql.Statement - {conn-10004, pstmt-20043} Parameters : [player4, 14,2]
+DEBUG http-nio-20600-exec-6 druid.sql.Statement - {conn-10004, pstmt-20043} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-6 druid.sql.Statement - {conn-10004, pstmt-20043} executed. 39.763046 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-6 druid.sql.Statement - {conn-10004, pstmt-20043} closed
+DEBUG http-nio-20600-exec-6 druid.sql.Connection - {conn-10004} pool-recycle
+DEBUG http-nio-20600-exec-5 druid.sql.Connection - {conn-10004} pool-connect
+DEBUG http-nio-20600-exec-5 druid.sql.Statement - {conn-10004, pstmt-20044} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-5 druid.sql.Statement - {conn-10004, pstmt-20044} Parameters : [computer, 10,3]
+DEBUG http-nio-20600-exec-5 druid.sql.Statement - {conn-10004, pstmt-20044} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-5 druid.sql.Statement - {conn-10004, pstmt-20044} executed. 23.76362 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-5 druid.sql.Statement - {conn-10004, pstmt-20044} closed
+DEBUG http-nio-20600-exec-5 druid.sql.Connection - {conn-10004} pool-recycle
+DEBUG http-nio-20600-exec-10 druid.sql.Connection - {conn-10004} pool-connect
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10004, pstmt-20045} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10004, pstmt-20045} Parameters : [player4, 12,0]
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10004, pstmt-20045} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10004, pstmt-20045} executed. 18.333008 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10004, pstmt-20045} closed
+DEBUG http-nio-20600-exec-10 druid.sql.Connection - {conn-10004} pool-recycle
+DEBUG http-nio-20600-exec-9 druid.sql.Connection - {conn-10004} pool-connect
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10004, pstmt-20046} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10004, pstmt-20046} Parameters : [computer, 9,4]
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10004, pstmt-20046} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10004, pstmt-20046} executed. 17.243586 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-9 druid.sql.Statement - {conn-10004, pstmt-20046} closed
+DEBUG http-nio-20600-exec-9 druid.sql.Connection - {conn-10004} pool-recycle
+DEBUG http-nio-20600-exec-8 druid.sql.Connection - {conn-10004} pool-connect
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10004, pstmt-20047} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10004, pstmt-20047} Parameters : [player4, 8,5]
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10004, pstmt-20047} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10004, pstmt-20047} executed. 43.633765 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-4 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-8 druid.sql.Statement - {conn-10004, pstmt-20047} closed
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20048} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-8 druid.sql.Connection - {conn-10004} pool-recycle
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20048} Parameters : [computer, 9,2]
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20048} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20048} executed. 51.37179 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-4 druid.sql.Statement - {conn-10003, pstmt-20048} closed
+DEBUG http-nio-20600-exec-4 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-7 druid.sql.Connection - {conn-10003} pool-connect
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20049} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20049} Parameters : [player4, 15,3]
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20049} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-1 druid.sql.Connection - {conn-10004} pool-connect
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10004, pstmt-20050} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10004, pstmt-20050} Parameters : [computer, 16,4]
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10004, pstmt-20050} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20049} executed. 99.956594 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-7 druid.sql.Statement - {conn-10003, pstmt-20049} closed
+DEBUG http-nio-20600-exec-7 druid.sql.Connection - {conn-10003} pool-recycle
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10004, pstmt-20050} executed. 109.380804 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-1 druid.sql.Statement - {conn-10004, pstmt-20050} closed
+DEBUG http-nio-20600-exec-1 druid.sql.Connection - {conn-10004} pool-recycle
+DEBUG http-nio-20600-exec-2 druid.sql.Connection - {conn-10004} pool-connect
+DEBUG http-nio-20600-exec-2 druid.sql.Statement - {conn-10004, pstmt-20051} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-2 druid.sql.Statement - {conn-10004, pstmt-20051} Parameters : [player4, 10,4]
+DEBUG http-nio-20600-exec-2 druid.sql.Statement - {conn-10004, pstmt-20051} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-2 druid.sql.Statement - {conn-10004, pstmt-20051} executed. 31.119351 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-2 druid.sql.Statement - {conn-10004, pstmt-20051} closed
+DEBUG http-nio-20600-exec-2 druid.sql.Connection - {conn-10004} pool-recycle
+DEBUG http-nio-20600-exec-3 druid.sql.Connection - {conn-10004} pool-connect
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10004, pstmt-20052} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10004, pstmt-20052} Parameters : [computer, 12,5]
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10004, pstmt-20052} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10004, pstmt-20052} executed. 30.391174 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-3 druid.sql.Statement - {conn-10004, pstmt-20052} closed
+DEBUG http-nio-20600-exec-3 druid.sql.Connection - {conn-10004} pool-recycle
+DEBUG http-nio-20600-exec-6 druid.sql.Connection - {conn-10004} pool-connect
+DEBUG http-nio-20600-exec-6 druid.sql.Statement - {conn-10004, pstmt-20053} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-6 druid.sql.Statement - {conn-10004, pstmt-20053} Parameters : [player4, 10,5]
+DEBUG http-nio-20600-exec-6 druid.sql.Statement - {conn-10004, pstmt-20053} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-6 druid.sql.Statement - {conn-10004, pstmt-20053} executed. 19.444048 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-6 druid.sql.Statement - {conn-10004, pstmt-20053} closed
+DEBUG http-nio-20600-exec-6 druid.sql.Connection - {conn-10004} pool-recycle
+DEBUG http-nio-20600-exec-5 druid.sql.Connection - {conn-10004} pool-connect
+DEBUG http-nio-20600-exec-5 druid.sql.Statement - {conn-10004, pstmt-20054} created. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-5 druid.sql.Statement - {conn-10004, pstmt-20054} Parameters : [computer, 13,6]
+DEBUG http-nio-20600-exec-5 druid.sql.Statement - {conn-10004, pstmt-20054} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-5 druid.sql.Statement - {conn-10004, pstmt-20054} executed. 18.347799 millis. insert into gobang.gobangHistory(name,location) value(?,?)
+DEBUG http-nio-20600-exec-5 druid.sql.Statement - {conn-10004, pstmt-20054} closed
+DEBUG http-nio-20600-exec-5 druid.sql.Connection - {conn-10004} pool-recycle
+DEBUG http-nio-20600-exec-10 druid.sql.Connection - {conn-10004} pool-connect
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10004, pstmt-20055} created. insert into gobang.gobangResult(name,result) value(?,?)
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10004, pstmt-20055} Parameters : [computer, Computer Win]
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10004, pstmt-20055} Types : [VARCHAR, VARCHAR]
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10004, pstmt-20055} executed. 19.481594 millis. insert into gobang.gobangResult(name,result) value(?,?)
+DEBUG http-nio-20600-exec-10 druid.sql.Statement - {conn-10004, pstmt-20055} closed
+DEBUG http-nio-20600-exec-10 druid.sql.Connection - {conn-10004} pool-recycle
+DEBUG Druid-ConnectionPool-Destroy-2141849216 druid.sql.Connection - {conn-10003} closed
+DEBUG Druid-ConnectionPool-Destroy-2141849216 druid.sql.Connection - {conn-10004} closed
